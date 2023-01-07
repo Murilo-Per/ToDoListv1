@@ -41,5 +41,5 @@ Instalação:
 
 ## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/Murilo-Per/ToDoListv1/blob/master/license.md) para detalhes.
+Este projeto está sob a licença (MIT) - veja o arquivo [LICENSE](https://github.com/Murilo-Per/ToDoListv1/blob/master/license) para detalhes.
 
