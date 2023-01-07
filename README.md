@@ -7,6 +7,7 @@ Front-end para aplicação de lista de tarefas
 Uma aplicação criada durante o curso Ignite da Rocketseat como desafio do primeiro modulo,
 utilizando as tecnologias:
 
+  * Vite
   * ReactJS
   * Typescript 
   * Tailwindcss
